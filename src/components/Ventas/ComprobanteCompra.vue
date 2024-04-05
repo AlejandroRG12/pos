@@ -27,7 +27,8 @@
             <p v-if="tipo === 'cuenta' || tipo === 'apartado'"><b>Por pagar:</b>${{ venta.porPagar }}</p>
             <p><b>Gracias por su preferencia</b></p>
             <p>----------------------------</p>
-            <p>Sistema de ventas por</p>
+            <p></p>
+            <p>Powered by</p>
             <img src="@/assets/logo.png" width="120">
         </div>
     </section>

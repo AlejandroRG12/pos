@@ -22,7 +22,7 @@
                     <h2 class="title is-2 has-text-danger-dark has-text-weight-bold">{{ informacionNegocio.nombre }}</h2>
                 </div>
                 
-                <h3 class=" is-1 has-text-centered is-family-monospace">Power By</h3>
+                <h3 class=" is-1 has-text-centered is-family-monospace">Powered By</h3>
                 <img src="@/assets/logo.png" width="150" height="100" style="display: block; margin:0 auto;">
                 
             </div>
