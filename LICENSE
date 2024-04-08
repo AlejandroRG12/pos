@@ -1,21 +1,55 @@
-MIT License
+LICENCIA DE SOFTWARE DE CÓDIGO ABIERTO GNU GENERAL PUBLIC LICENSE
+Versión 3, 29 de junio de 2007
 
-Copyright (c) 2022 Jose Francisco Rivera Bernabe
+El software POS_DECTEC está sujeto a los términos y condiciones de la siguiente licencia:
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+0. Definiciones.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+"Este Licenciamiento" se refiere a la versión 3 de la Licencia de Software de Código Abierto GNU General Public License.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+"El Programa" se refiere al software POS_DECTEC.
+
+"Copia modificada" se refiere a cualquier derivado o trabajo basado en el Programa.
+
+"Trabajo basado en el Programa" se refiere ya sea a la Copia Modificada o al Programa incluido en su totalidad o en parte en un trabajo que consista principalmente en el Programa o en una parte de él.
+
+"Licenciatario" se refiere a cualquier persona o entidad que ejerza derechos bajo este Licenciamiento.
+
+"Propiedad legal" se refiere a los derechos de autor, patentes, marcas registradas, secretos comerciales y cualquier otro derecho de propiedad intelectual aplicable.
+
+1. Concesión de Licencia.
+
+Licenciante otorga a Licenciatario una licencia mundial, no exclusiva, sin cargo, irrevocable (sujeta a las condiciones de la sección 9 de este Licenciamiento), para ejercer los siguientes derechos bajo las condiciones de este Licenciamiento:
+
+a) Ejecutar, modificar y copiar el Programa, bajo las condiciones descritas en esta licencia;
+b) Distribuir copias exactas o modificadas del Programa, siempre que se cumplan las siguientes condiciones:
+    1. Las licencias del Programa y cualquier trabajo derivado incluyen esta licencia;
+    2. Las copias, ya sea exactas o modificadas, se distribuyen bajo los términos de esta licencia;
+    3. Se incluye un aviso de copyright y un aviso de no garantía, tal como se describe en esta licencia;
+    4. La distribución cumple con las restricciones adicionales que establezca Licenciante.
+
+2. Condiciones de Uso.
+
+a) No se permite el uso del Programa para fines comerciales sin el consentimiento expreso por escrito de Licenciante.
+b) Se prohíbe la modificación del Programa para incluir malware, spyware u otro software malicioso.
+c) No se permite la distribución del Programa o copias modificadas del mismo sin el aviso de copyright y el aviso de no garantía.
+d) No se permite la sublicencia de derechos bajo este Licenciamiento.
+e) Se prohíbe el uso del Programa en actividades que violen la ley aplicable o los derechos de terceros.
+
+3. Renuncia de Garantía.
+
+EL PROGRAMA SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, YA SEA EXPRESA O IMPLÍCITA, INCLUYENDO, PERO NO LIMITADO A, LAS GARANTÍAS DE COMERCIABILIDAD, IDONEIDAD PARA UN PROPÓSITO PARTICULAR Y NO INFRACCIÓN. EL LICENCIANTE NO OFRECE GARANTÍAS CON RESPECTO A LA SEGURIDAD, CONFIABILIDAD, OPORTUNIDAD Y RENDIMIENTO DEL PROGRAMA.
+
+4. Limitación de Responsabilidad.
+
+EN NINGÚN CASO EL LICENCIANTE SERÁ RESPONSABLE ANTE USTED O CUALQUIER OTRA PARTE POR DAÑOS DIRECTOS, INDIRECTOS, ESPECIALES, INCIDENTALES O CONSECUENTES DE CUALQUIER TIPO DERIVADOS DEL USO O INCAPACIDAD DE USAR EL PROGRAMA, INCLUYENDO, PERO NO LIMITADO A, DAÑOS POR PÉRDIDA DE BENEFICIOS, INTERRUPCIÓN DEL NEGOCIO, PÉRDIDA DE PROGRAMAS O INFORMACIÓN, Y SIMILARES, AUN CUANDO SE HUBIERA ADVERTIDO DE LA POSIBILIDAD DE DICHOS DAÑOS.
+
+5. Termino.
+
+Este Licenciamiento se mantendrá en vigor hasta su terminación. Usted puede terminarlo en cualquier momento mediante la destrucción de todas las copias del Programa en su posesión o bajo su control. Este Licenciamiento terminará automáticamente si usted incumple cualquiera de sus términos y condiciones.
+
+6. Varios.
+
+Si alguna disposición de este Licenciamiento es inválida o inaplicable bajo cualquier ley, esta disposición se interpretará para cumplir con la ley aplicable y, en la medida en que sea posible, las disposiciones restantes permanecerán en pleno vigor y efecto.
+
+© 2024 - Juan Alejandro Ramirez Garcia. Todos los derechos reservados.
