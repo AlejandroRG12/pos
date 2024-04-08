@@ -5,7 +5,7 @@
             <div class="container">
 
                 <div class="box">
-                     <h1 class="title is-1 has-text-centered is-family-monospace">Punto de ventas</h1>
+                     <h1 class="title is-1 has-text-centered is-family-monospace">Punto de venta</h1>
                      <b-field label="Nombre de usuario" >
                          <b-input  icon="shield-account" type="text" placeholder="Ej. paco" v-model="usuario.usuario"></b-input>
                         </b-field>
